@@ -6,19 +6,19 @@ y = 50
 # to check the variable 'x' is less than 'y'
 print(x < y) # True
 
-# to check the variable 'x' is gratter than 'y'
+# to check the variable 'x' is grater than 'y'
 print(x > y) # False
 
-# to check the variable 'x' is less than or equalto 'y'
+# to check the variable 'x' is less than or equal to 'y'
 print(x <= y) # True
 
-# to check the variable 'x' is gratter than or equalto'y'
+# to check the variable 'x' is grater than or equal to 'y'
 print(x >= y) # False
 
-# to check the variable 'x' is equalto 'y'
+# to check the variable 'x' is equal to 'y'
 print(x == y) # False
 
-# to check the variable 'x' is not equalto 'y'
+# to check the variable 'x' is not equal to 'y'
 print(x != y) # True
 
 # ============================= 'in' & 'not' Operator ==============================

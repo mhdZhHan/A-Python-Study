@@ -6,17 +6,17 @@ if hello == True:
     print("Hello World")
 
 if hello:
-    print("Hello is avilable")
+    print("Hello is available")
 
 if not hello:
-    print("Hello is not avilable")
+    print("Hello is not available")
 
 # =================================
 
 x = 10
 
 if x < 20:
-    print("x is lesstahan")
+    print("x is less")
 
 # nested if
 if x < 100:

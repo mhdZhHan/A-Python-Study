@@ -1,4 +1,4 @@
-# Dictionary Operations Adding and retreving data
+# Dictionary Operations Adding and retrieving data
 
 student = {
     "name": "Mohammed",
@@ -16,11 +16,11 @@ student.update(sub=["Python", "Django"])
 
 print(student)
 
-# ========================== 2.Retreving ===============================
+# ========================== 2.Retrieving ===============================
 
 # print(student["X"]) # KeyError: 'X'
 
-# ================ get() nmethod ====================
+# ================ get() method ====================
 
 print(student.get("name", "default"))
 

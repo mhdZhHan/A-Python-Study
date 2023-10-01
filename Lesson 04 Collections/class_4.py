@@ -24,7 +24,7 @@ y = [1, 2, 3, 4, 5, 6, 7]
 y.pop()
 print(y)
 
-# store poped element
+# store popped element
 z = y.pop()
 print(z)
 

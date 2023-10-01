@@ -29,8 +29,8 @@ print(now.strftime("%B"))
 
 # ====== more => google it
 
-# ========= formates ==============
-print("========= formates ==============")
+# ========= formats ==============
+print("========= formats ==============")
 
 print(now.strftime("%c"))
 print(now.strftime("%x"))

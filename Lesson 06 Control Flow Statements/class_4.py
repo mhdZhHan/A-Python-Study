@@ -6,9 +6,9 @@ while number < 10:
     print(number)
     number += 1
     
-print("Loop is Compleated")
+print("Loop is Completed")
 
-# infinit loop
+# infinite loop
 
 # while number < 10:
 #     print(number)

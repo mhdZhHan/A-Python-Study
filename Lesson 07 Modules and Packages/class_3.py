@@ -5,7 +5,7 @@ import random
 x = random.random()
 print(x)
 
-# return a random flot number in 1 to 100
+# return a random float number in 1 to 100
 print(random.uniform(1, 100))
 
 # return a random int number in 1 to 100

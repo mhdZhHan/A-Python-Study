@@ -2,13 +2,13 @@
 
 # ========================= 1. Split ============================
 
-mystr = "Hello World"
+my_str = "Hello World"
 
 # split the string into a list where each word is a list item
-print(mystr.split()) # ['Hello', 'World']
+print(my_str.split()) # ['Hello', 'World']
 
 # split the string using 'Wo' as a separator
-print(mystr.split("Wo")) # ['Hello ', 'rld']
+print(my_str.split("Wo")) # ['Hello ', 'rld']
 
 characters = "Motu, Patlu, Jon"
 
@@ -17,11 +17,11 @@ print(characters.split(",")) # ['Motu', 'Patlu', 'Jon']
 
 # ========================= 1. Join ============================
 
-mylist = ["Hello", "World"]
+my_list = ["Hello", "World"]
 
 # Join all items in a list into a string, using a tab space as separator
-newstr = " ".join(mylist)
-print(newstr) # "Hello World"
+new_str = " ".join(my_list)
+print(new_str) # "Hello World"
 
 fruits = ["apple", "orange", "grapes"]
 

@@ -1,4 +1,4 @@
-# List Operations - Inssert and find items
+# List Operations - Insert and find items
 
 x = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 

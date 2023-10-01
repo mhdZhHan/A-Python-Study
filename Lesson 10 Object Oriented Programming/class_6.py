@@ -23,6 +23,6 @@ print(cat.activity())
 
 print('\n')
 
-dog = Animal("lubby")
+dog = Animal("lobby")
 print("The dog name is",dog.name)
 print(dog.activity())

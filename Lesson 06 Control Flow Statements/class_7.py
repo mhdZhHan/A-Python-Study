@@ -1,7 +1,7 @@
 # Nested Loop
 
 names = ["Mohammed", "Ali"]
-jobs = ["Hacking", "Codeing"]
+jobs = ["Hacking", "Coding"]
 
 for name in names:
     for job in jobs:

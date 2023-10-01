@@ -7,7 +7,7 @@ try:
 except:
     print("Error ❌❌")
 else:
-    print("Sucess no errors 👍")
+    print("Success no errors 👍")
 finally:
     print("Finally block")
 
@@ -25,6 +25,6 @@ except ValueError:
 except TypeError:
     print("TypeError ❌❌")
 else:
-    print("Sucess no errors 👍")
+    print("Success no errors 👍")
 finally:
     print("Finally block")

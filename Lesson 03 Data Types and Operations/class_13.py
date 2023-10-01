@@ -4,10 +4,10 @@
 
 print(3 < 5 and 20 > 17) # True
 
-# a = True and Tru     # True
-# b = True and Fals    # False
-# c = False and Fals   # False
-# d = False and Tru    # False
+# a = True and True     # True
+# b = True and False    # False
+# c = False and False   # False
+# d = False and True    # False
 
 # ====================== 1. or ========================
 

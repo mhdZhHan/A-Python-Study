@@ -16,5 +16,5 @@ class Cat(Animal):
 cat = Cat("Kitty")
 print(cat.activity())
 
-dog = Animal("lubby")
+dog = Animal("lobby")
 print(dog.activity())

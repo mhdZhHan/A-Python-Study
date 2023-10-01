@@ -11,7 +11,7 @@ print(round(234.98547, 2)) # 234.98
 # power of a number
 print(pow(4, 3)) # 64
 
-# bigest number in a list
+# biggest number in a list
 print(max(1,34, 56, 2,87)) # 87
 
 # smallest number in a list

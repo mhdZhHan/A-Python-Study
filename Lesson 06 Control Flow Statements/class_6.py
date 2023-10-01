@@ -8,7 +8,7 @@ print(n)
 for number in range(5):
     print(number)
 
-print("Loop Compleated")
+print("Loop Completed")
 
 # range syntax => range(start, end, step)
 

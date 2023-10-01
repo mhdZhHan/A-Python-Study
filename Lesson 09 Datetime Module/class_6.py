@@ -1,4 +1,4 @@
-# Datetime Striptime
+# Datetime Strptime
 from datetime import datetime
 
 

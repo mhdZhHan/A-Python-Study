@@ -1,6 +1,6 @@
 # For Loop
 
-students = ["Ali", "Osman", "Umar"]
+students = ["Ali", "Osman", "Omar"]
 
 for student in students:
     print(student)
@@ -11,7 +11,7 @@ for c in name:
     print(c)
 
 # =======================
-emojies = ("😀","😃","😇","🙂","🙃","🤠")
+emojis = ("😀","😃","😇","🙂","🙃","🤠")
 
-for emoji in emojies:
+for emoji in emojis:
     print(emoji)

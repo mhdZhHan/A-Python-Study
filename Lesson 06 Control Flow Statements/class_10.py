@@ -5,7 +5,7 @@ pets = ["cat", "parrot", "dog"]
 for pet in pets:
     print(pet)
 else:
-    print("Loop is compleated")
+    print("Loop is completed")
 
 # ============================================
 

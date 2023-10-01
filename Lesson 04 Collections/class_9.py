@@ -27,7 +27,7 @@ print(student)
 del student["name"]
 print(student)
 
-# remove entair dictionary
+# remove entire dictionary
 
 del student
 # print(student) # 'student' is not defined

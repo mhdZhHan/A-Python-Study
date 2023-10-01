@@ -16,7 +16,7 @@ print(x[::2])
 # -2 to last
 print(x[-2:])
 
-# strat to -2
+# start to -2
 print(x[:-2])
 
 print(x[::-1])
